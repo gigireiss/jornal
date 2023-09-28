@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #DDE6E8;  
+}
+
+header{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #A24D4D;
+    width: 20vh;
+}
+
+.container-primeira-sessao{
+    display: flex;
+    margin-top: 5px;
+}
+
+.div1{
+    display: flex;
+    background-color: #D67F7F;
+    align-items: center;
+    width: 35vw;
+    height: 40vh;
+    margin: 50px;
+
+}
+
+.div2{
+    display: flex;
+    background-color: #D67F7F;
+    align-items: center;
+    width: 35vw;
+    height: 40vh;
+    margin: 50px;
+}
+
+.container-segunda-sessao{
+    display: flex;
+    margin-top: 50px;
+}
+
+.div3{
+    display: flex;
+    background-color: #D67F7F;
+    align-items: center;
+    width: 35vw;
+    height: 40vh;
+    margin: 50px;
+}
+
+.div3{
+    display: flex;
+    background-color: #D67F7F;
+    align-items: center;
+    width: 35vw;
+    height: 40vh;
+    margin: 50px;
+}
+
